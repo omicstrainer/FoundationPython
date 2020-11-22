@@ -57,3 +57,12 @@ print(Europe[-11])
 
 ## print -1 element of the list Europe using negative value
 print(Europe[-1])
+
+## create new list UK
+UK = Europe[49]
+
+## print the list UK
+print(UK)
+
+## create new list Euro
+Euro = Europe.remove(UK).
