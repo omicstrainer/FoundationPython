@@ -66,3 +66,6 @@ print(UK)
 
 ## create new list Euro
 Euro = Europe.remove(UK)
+
+## print the list UK
+print(Euro)
