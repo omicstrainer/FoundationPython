@@ -65,4 +65,4 @@ UK = Europe[49]
 print(UK)
 
 ## create new list Euro
-Euro = Europe.remove(UK).
+Euro = Europe.remove(UK)
