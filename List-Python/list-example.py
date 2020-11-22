@@ -1,4 +1,6 @@
+##Let create a list - vertebrate
 vertebrates = ["Human","Mouse","Cow","Chichen","Fugu","Zebrafish","Xenopus","Lion","Eel"]
+## print this list
 print(vertebrates)
 print ("1st element of vertebrates:")
 print(vertebrates[0])
