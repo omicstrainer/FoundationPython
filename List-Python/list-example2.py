@@ -15,6 +15,7 @@ print(Europe)
 Europe.sort()
 
 ## print list Europe
+
 print(Europe)
 
 ## Measure the length of list Europe
@@ -64,8 +65,10 @@ UK = Europe[49]
 ## print the list UK
 print(UK)
 
-## create new list Euro
-Euro = Europe.remove("United_Kingdom")
+## Remove element United_Kingdom
+Europe.remove("United_Kingdom")
 
-## print the list UK
-print(Europe)
+## create new list Euro
+Euro = Europe
+## print the list Euro
+print(Euro)
