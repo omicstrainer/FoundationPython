@@ -1,7 +1,16 @@
-##Let create a list - vertebrate
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Oct  7 13:22:12 2020
+
+@author: Abhishek Kumar
+"""
+##Let create a list - vertebrates
 vertebrates = ["Human","Mouse","Cow","Chichen","Fugu","Zebrafish","Xenopus","Lion","Eel"]
+
 ## print this list
 print(vertebrates)
+
 ## print 1st element of vertebrates
 print ("1st element of vertebrates:")
 print(vertebrates[0])
