@@ -44,9 +44,12 @@ print(vertebrates[-1])
 
 ## print -5 element of vertebrates
 print ("-5 element of vertebrates:")
-print(vertebrates[-5]
-)
-print ("-9 element of vertebrates:")
-print(vertebrates[-9])
+print(vertebrates[-5])
+
+## print -7 element of vertebrates
+print ("-7 element of vertebrates:")
+print(vertebrates[-7])
+
+## print -9 element of vertebrates
 print ("last element of vertebrates:")
 print(vertebrates[-9])
