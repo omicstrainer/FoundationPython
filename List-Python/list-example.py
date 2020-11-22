@@ -2,12 +2,19 @@
 vertebrates = ["Human","Mouse","Cow","Chichen","Fugu","Zebrafish","Xenopus","Lion","Eel"]
 ## print this list
 print(vertebrates)
+## print 1st element of vertebrates
 print ("1st element of vertebrates:")
 print(vertebrates[0])
+
+## print 2nd element of vertebrates
 print ("2nd element of vertebrates:")
 print(vertebrates[1])
+
+## print 3rd element of vertebrates
 print ("3rd element of vertebrates:")
 print(vertebrates[2])
+
+## print 4th element of vertebrates
 print ("4th element of vertebrates:")
 print(vertebrates[3])
 print ("5th element of vertebrates:")
