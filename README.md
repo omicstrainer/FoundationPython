@@ -1,2 +1,2 @@
 # FoundationPython
-Foundation Python
+Foundation Python is a training for python programming 
