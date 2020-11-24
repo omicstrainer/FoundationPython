@@ -5,14 +5,15 @@ Created on Wed Oct  7 13:22:12 2020
 
 @author: Abhishek Kumar
 """
-Europe = ("Germany", "Austria", "UK")
 
-Vertebrates = ("Cow", "Chichen", "Fugu", "Xenopus")
+Europe = ["Germany", "Austria", "UK"]
 
-VertEuro = Vertebrates + Europe
+Vertebrates = ["Cow", "Chichen", "Fugu", "Xenopus"]
 
-print(VertEuro)
+Vert_Euro = Vertebrates + Europe
 
-VertEuro.sort()
+print(Vert_Euro)
 
-print(VertEuro)
+Vert_Euro.sort()
+
+print(Vert_Euro)
