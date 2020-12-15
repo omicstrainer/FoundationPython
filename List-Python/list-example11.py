@@ -26,4 +26,8 @@ print (Length_Numbers)
 #Add 19, 21, 29 at the start of the "Numbers"
 Num = ['19','21','29']+Numbers 
 
+
+# Print Num
 print (Num)
+Length_Num=len(Num)
+print (Length_Num)
