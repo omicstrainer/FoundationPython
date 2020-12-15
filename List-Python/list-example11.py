@@ -19,7 +19,9 @@ print (Length_Even)
 # These two list to form 3rd one 
 Numbers = Odd+Even
 
+# Print Numbers
 print (Numbers)
+# Length computation of Numbers
 Length_Numbers=len(Numbers)
 #Print Length of Numbers
 print (Length_Numbers)
