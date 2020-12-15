@@ -9,7 +9,8 @@ Purpose - Test2
 # Create list of six odd numbers 
 Odd = ['1', '3', '5', '7', '9', '11']
 print (Odd)
-
+Length_Odd=len(Odd)
+print (Length_Odd)
 # Create list of six even numbers
 Even = ['2', '4', '6', '8', '10', '12']
 print (Even)
