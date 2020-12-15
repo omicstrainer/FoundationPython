@@ -24,7 +24,7 @@ print(Friend)
 
 #delete A4
 Friend.remove('A4')
-
+#Print Friend
 print(Friend)
 
 #Sort Friend
