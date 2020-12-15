@@ -44,3 +44,9 @@ print (Num)
 Length_Num=len(Num)
 # Print Length of Num
 print (Length_Num)
+
+
+# Replace last four elements by 1000, 2000, 3000 & 4000
+Num[Length_Num-4:Length_Num]=[1000, 2000, 3000, 4000]
+# Print Num
+print (Num)
