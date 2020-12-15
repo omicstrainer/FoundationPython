@@ -19,7 +19,14 @@ Vert_Euro.sort()
 print(Vert_Euro)
 #delete UK
 del(Vert_Euro[5])
+# Print Vert_Euro after deletion of UK
 print(Vert_Euro)
+
+#delete first two elements
+del(Vert_Euro[0:2])
+# Print Vert_Euro after deletion of 2 elements
+print(Vert_Euro)
+
 # max Vert_Euro
 Maxi = max(Vert_Euro)
 print(Maxi)
