@@ -18,7 +18,7 @@ Vert_Euro.sort()
 # Printing Sorted Vert_Euro
 print(Vert_Euro)
 #delete UK
-DelUK = del(2))
+DelUK = del(2)
 print(DelUK))
 # max Vert_Euro
 Maxi = max(Vert_Euro)
