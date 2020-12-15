@@ -34,6 +34,7 @@ print(Friend)
 
 #replace A3 by D3
 i=Friend.index('A3')
+print (i)
 Friend[i]='D3'
 #Print Friend
 print(Friend)
