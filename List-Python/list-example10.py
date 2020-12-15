@@ -10,4 +10,9 @@ Purpose - Test1
 #Create a list of your five friends 
 
 Friend = ['A1', 'A2', 'A3', 'A4', 'A5']
-print(Friend))
+print(Friend)
+
+#Insert B3 before A3
+Friend.insert(2, 'B3')
+
+print(Friend)
