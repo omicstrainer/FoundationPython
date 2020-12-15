@@ -28,3 +28,13 @@ print(Friend)
 #Sort Friend
 Friend.sort()
 print(Friend)
+
+#delete A4
+Friend.remove('A4')
+print(Friend)
+
+#replace A3 by X3
+x = Friend.index('x')
+print(x)
+Friend[x]='X3'
+print(Friend)
