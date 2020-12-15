@@ -8,14 +8,22 @@ Purpose - Test2
 """
 # Create list of six odd numbers 
 Odd = ['1', '3', '5', '7', '9', '11']
+#Print Odd
 print (Odd)
+# Length computation of Odd
+#Print Length of Numbers
 Length_Odd=len(Odd)
 print (Length_Odd)
+
 # Create list of six even numbers
 Even = ['2', '4', '6', '8', '10', '12']
+#Print Even
 print (Even)
+# Length computation of Even
 Length_Even=len(Even)
+#Print Length of Even
 print (Length_Even)
+
 # These two list to form 3rd one 
 Numbers = Odd+Even
 
