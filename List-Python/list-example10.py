@@ -34,7 +34,7 @@ Friend.remove('A4')
 print(Friend)
 
 #replace A3 by X3
-x = Friend.index('x')
+x = Friend.index('A3')
 print(x)
 Friend[x]='X3'
 print(Friend)
