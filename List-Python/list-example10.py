@@ -19,6 +19,7 @@ print(Friend)
 
 #Append Friend using C1
 Friend.append('C1')
+#Print Friend
 print(Friend)
 
 #delete A4
