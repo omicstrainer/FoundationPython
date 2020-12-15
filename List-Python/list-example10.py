@@ -21,3 +21,6 @@ print(Friend)
 Friend.append('C1')
 print(Friend)
 
+#delete A4
+Friend.remove('A4')
+print(Friend)
