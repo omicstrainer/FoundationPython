@@ -18,3 +18,9 @@ list2 = list1
 print (list2)
 
 list1[0]=110
+
+#print list1
+print (list1)
+
+#print list2
+print (list2)
