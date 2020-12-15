@@ -20,8 +20,8 @@ print (Length_Even)
 Numbers = Odd+Even
 
 print (Numbers)
-Length_Odd=len(N)
-print (Length_Odd)
+Length_Numbers=len(Numbers)
+print (Length_Numbers)
 
 #Add 19, 21, 29 at the start of the "Numbers"
 Num = ['19','21','29']+Numbers 
