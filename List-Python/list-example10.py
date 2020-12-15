@@ -14,5 +14,10 @@ print(Friend)
 
 #Insert B3 before A3
 Friend.insert(2, 'B3')
-
 print(Friend)
+
+
+#Append Friend using C1
+Friend.append('C1')
+print(Friend)
+
