@@ -17,9 +17,9 @@ print(Vert_Euro)
 Vert_Euro.sort()
 # Printing Sorted Vert_Euro
 print(Vert_Euro)
-#Length  Vert_Euro
-Length = len(Vert_Euro)
-print(Length)
+#delete UK
+DelUK = del(2))
+print(DelUK))
 # max Vert_Euro
 Maxi = max(Vert_Euro)
 print(Maxi)
