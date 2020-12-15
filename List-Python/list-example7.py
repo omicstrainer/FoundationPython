@@ -35,8 +35,8 @@ print (list1)
 #print list2
 print (list2)
 
-#Removing 44 from list2
-list2.pop(3)
+#Reverse list1
+list1.reverse()
 
 
 #print list1
