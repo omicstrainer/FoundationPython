@@ -28,3 +28,8 @@ print (list2)
 list2.pop(3)
 
 
+#print list1
+print (list1)
+
+#print list2
+print (list2)
