@@ -16,3 +16,5 @@ list2 = list1
 
 #print list2
 print (list2)
+
+list1[0]=110
