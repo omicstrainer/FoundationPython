@@ -33,3 +33,8 @@ print(Maxi)
 # min Vert_Euro
 Mini = min(Vert_Euro)
 print(Mini)
+
+#delete entire list
+del(Vert_Euro[:])
+# Print Vert_Euro after deletion of entire list
+print(Vert_Euro)
