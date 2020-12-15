@@ -29,6 +29,7 @@ print(Friend)
 
 #Sort Friend
 Friend.sort()
+#Print Friend
 print(Friend)
 
 #replace A3 by D3
