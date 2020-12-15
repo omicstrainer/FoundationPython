@@ -16,7 +16,6 @@ print(Friend)
 Friend.insert(2, 'B3')
 print(Friend)
 
-
 #Append Friend using C1
 Friend.append('C1')
 print(Friend)
@@ -29,12 +28,7 @@ print(Friend)
 Friend.sort()
 print(Friend)
 
-#delete A4
-Friend.remove('A4')
-print(Friend)
-
-#replace A3 by X3
-x = Friend.index('A3')
-print(x)
-Friend[x]='X3'
+#replace A3 by D3
+i=Friend.index('A3')
+Friend[i]='D3'
 print(Friend)
