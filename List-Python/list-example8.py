@@ -12,7 +12,7 @@ list1 = [11, 22, 33, 44, 55, 66, 77]
 print (list1)
 
 #List assignment of  list1 to list2
-list 
+list2=[] 
 list2 = list1
 
 #print list2
