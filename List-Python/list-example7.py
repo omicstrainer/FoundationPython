@@ -44,8 +44,8 @@ print (list1)
 #print list2
 print (list2)
 
-#Reverse list1
-list1.reverse()
+#Sort list2
+list2.sort()
 
 #print list1
 print (list1)
