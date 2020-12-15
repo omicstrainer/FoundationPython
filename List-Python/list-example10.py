@@ -7,7 +7,7 @@ File name: list-example10.py
 Purpose - Test1 
 """
 
-#Create a list of your five friends 
+#Create a list of your five Friends 
 
 Friend = ['A1', 'A2', 'A3', 'A4', 'A5']
 print(Friend)
